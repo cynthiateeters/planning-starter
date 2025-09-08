@@ -9,17 +9,17 @@
 **Poem:** "[Title]" by [Author]
 
 **Public domain verification:**
-```
+``` text
 [Confirm this is public domain - author died 70+ years ago or explicitly public domain. Include death year if known.]
 ```
 
 **Why I chose this poem:**
-```
+``` text
 [2-3 sentences explaining why this poem appeals to you and why it will work well for a website project. Consider both personal connection and practical factors like structure, length, and visual potential.]
 ```
 
 **Brief description for design purposes:**
-```
+``` text
 [1-2 sentences about the poem's mood, themes, or imagery that will influence your design choices.]
 ```
 
@@ -72,18 +72,18 @@ Based on my AI conversations, here are my simple design guidelines:
 
 ### What worked well
 **Best prompt and response:**
-```
+``` text
 [Your most effective prompt]
 ```
 
 **Why this worked:**
-```
+``` text
 [1-2 sentences on what made this effective]
 ```
 
 ### What surprised you
 **An AI limitation you discovered:**
-```
+``` text
 [Example: AI only suggested male poets until I specifically asked for women authors]
 [Example: AI forgot my poem choice when I started a new conversation]
 [Example: AI gave incorrect information about...]
@@ -91,7 +91,7 @@ Based on my AI conversations, here are my simple design guidelines:
 ```
 
 **How you worked around it:**
-```
+``` text
 [What you did to get better results]
 ```
 
@@ -100,12 +100,12 @@ Based on my AI conversations, here are my simple design guidelines:
 **Do you feel prepared to start coding your poetry website?** [Yes/No]
 
 **What are you most confident about?**
-```
+``` text
 [What aspect of the plan feels solid to you?]
 ```
 
 **What might you need to figure out as you go?**
-```
+``` text
 [What aspects still feel uncertain or might need adjustment during implementation?]
 ```
 
